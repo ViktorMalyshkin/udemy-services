@@ -1,5 +1,5 @@
-# MyFirstApp
-
+# Udemy - Services
+## Section 9: Using Services & Dependency Injection
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
